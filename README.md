@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I’m an Electrical and Computer Engineering student passionate about technology, programming, and building practical solutions. 
+Recently, I’ve become even more excited about software development topics. Let’s see where this journey takes me 😄
+Aiming to learn, collaborate, and contribute to open-source projects. Feel free to check out my repositories and connect with me!
+
+🔭 I’m currently working on a web-based oscilloscope simulator integrated into the U=RIsolve circuit editing platform. The goal is to provide users with an interactive and intuitive experience, similar to using a physical oscilloscope, but accessible directly in the web browser.
+Check out [U=RIsolve Platform](https://github.com/urisolve) ⚡
+
+🌱 I’m currently deepening my knowledge of front-end web development fundamentals, with the goal of improving my skills in modern frameworks and becoming a more versatile developer.
+
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 <!--
 **oscarealG/oscarealG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
