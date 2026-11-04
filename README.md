@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 I’m an Electrical and Computer Engineering student passionate about technology and building practical solutions. 
@@ -10,7 +11,7 @@ Check out [U=RIsolve Platform](https://github.com/urisolve) ⚡
 📫 If you ever need contact me oscar.fama@hotmail.com
 
 
-<!--
+
 **oscarealG/oscarealG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
