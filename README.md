@@ -1,6 +1,6 @@
-<!--
-## Hi there 👋
 
+## Hi there 👋
+<!--
 I’m an Electrical and Computer Engineering student passionate about technology and building practical solutions. 
 Recently, I’ve become even more excited about software development topics. Let’s see where this journey takes me 😄
 Aiming to learn, collaborate, and contribute to open-source projects. Feel free to check out my repositories and connect with me!
