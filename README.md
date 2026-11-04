@@ -1,5 +1,7 @@
 
 ## Hi there 👋
+
+Check out [U=RIsolve Platform](https://github.com/urisolve) ⚡
 <!--
 I’m an Electrical and Computer Engineering student passionate about technology and building practical solutions. 
 Recently, I’ve become even more excited about software development topics. Let’s see where this journey takes me 😄
